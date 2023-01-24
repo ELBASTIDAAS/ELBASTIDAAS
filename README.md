@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://avatars.githubusercontent.com/u/75141067?v=4">
-    <img src="https://mm.answernet.com/api/v4/users/bpgwsag9jpbdxnw4i3f9gxewao/image?_=1673038655658" alt="JuveYell" width="150px">
+    <img src="https://ca.slack-edge.com/T2NMFH40M-U04D9M2FSFJ-b274ce26c433-512" alt="JuveYell" width="150px">
   </a>
 
   <h3 align="center">Miguel Bastidas</h3>
