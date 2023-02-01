@@ -18,7 +18,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About ME
 
-ME gusta la programación y utilizo mis habilidades para desarrollar y crear aplicaciones y software. También disfruto de pasar tiempo jugando videojuegos y me gustan juegos de disparos en primera persona como Valorant, League of Legends y Apex Legends. Disfruto de salir a conocer lugares nuevos y explorar mi entorno. Además, soy un amante del café y disfruto de probar diferentes sabores y variedades. Me gusta conocer nuevas personas y soy simpático y divertido, siempre busco estar ocupado y tengo una afición por la fotografía, disfruto de capturar momentos y crear recuerdos.
+Me gusta la programación y utilizo mis habilidades para desarrollar y crear aplicaciones y software. También disfruto de pasar tiempo jugando videojuegos y me gustan juegos de disparos en primera persona como Valorant, League of Legends y Apex Legends. Disfruto de salir a conocer lugares nuevos y explorar mi entorno. Además, soy un amante del café y disfruto de probar diferentes sabores y variedades. Me gusta conocer nuevas personas y soy simpático y divertido, siempre busco estar ocupado y tengo una afición por la fotografía, disfruto de capturar momentos y crear recuerdos.
 
 
 
